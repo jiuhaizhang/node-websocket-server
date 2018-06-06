@@ -1,3 +1,4 @@
+#test
 release:
 	node tools/release.js
 
