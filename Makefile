@@ -1,4 +1,4 @@
-#test
+#test aaa
 release:
 	node tools/release.js
 
