@@ -1,4 +1,4 @@
-#test test server
+#test test server server
 release:
 	node tools/release.js
 
