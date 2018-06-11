@@ -1,4 +1,4 @@
-#test test  merge from server 1 bs1 bs1 bs11111111
+#test test  merge from server 1 bs1 bs1 bs11111111 bs000
 release:
 	node tools/release.js
 
